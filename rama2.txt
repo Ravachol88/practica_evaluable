@@ -1,0 +1,2 @@
+Esto es un segundo texto
+Holi Mundillo\npara rama2.txt\ntrabajo de entornos
