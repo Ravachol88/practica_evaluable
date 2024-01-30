@@ -1,1 +1,2 @@
-Alumno: Marcos\Ciclo: 1 Dam
+Alumno: Marcos
+Ciclo: 1 Dam

@@ -1,3 +1,4 @@
-Hola Mundi\nHola Mundi2\nHola Mundi3 > documento1.txt
-git status
-echo Hola MundinHola Mundi2nHola Mundi3
+Hola Mundi
+Hola Mundi2
+Hola Mundi3
+
