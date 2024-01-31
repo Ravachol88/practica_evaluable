@@ -73,4 +73,6 @@ Código utilizado:
 
 - Code .: ir a VSCode.
 
-- echo “# Practica_Evaluable” > README.md: creamos el Readme.
+- Echo “# Practica_Evaluable” > README.md: creamos el Readme.
+
+- Git pull origin master: llevar cambios del repositorio remoto al local.
